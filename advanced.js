@@ -83,3 +83,18 @@
 // }
 // list(rolllist1, rolllist2);
 // console.log(rolllist1, rolllist2);
+
+// extra practice-------------->
+
+// let myString = 'Hello World';
+// let firstChar = myString.charAt(6);
+// console.log(firstChar)
+
+// let myString = 'Hello World jahid my jedhd djih dihii fihr';
+// let Char = myString.charCodeAt(20);
+// console.log(Char)
+
+// let string = 'Hello world';
+// let substring = string.substring(1, 4);
+// console.log(substring)
+
